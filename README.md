@@ -1,4 +1,4 @@
-### Hi there 👋
+### A little bit about me
 
 <!--
 Welcome recruiters & future employers!
