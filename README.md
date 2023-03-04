@@ -1,19 +1,8 @@
-### A little bit about me
+Hi there! 
+I'm a queer Latino with a passion for technology and innovation. I recently graduated from university with a degree in computer science and am now working hard to build up my portfolio and resume.
 
-<!--
-Welcome recruiters & future employers!
+As a member of the LGBTQ+ community, I am dedicated to promoting diversity and inclusion in the tech industry. I believe that everyone deserves a seat at the table, regardless of their background or identity.
 
-I am a highly skilled and passionate entry-level software developer with a wide range of technical abilities. I am proficient in programming languages such as Java, Html, CSS, C#, C Programming, JavaScript, and SQL. I have experience in game development using Unity and C# programming and am familiar with Git and GitHub.
+In my free time, I enjoy exploring new programming languages and frameworks, as well as tinkering with hardware projects. I am always eager to learn and grow as a developer, and I am constantly seeking out new challenges and opportunities.
 
-I am dedicated to software development and have a strong work ethic. I am always eager to learn new technologies and programming languages and am committed to producing high-quality, efficient, and effective code.
-
-Furthermore, I have received a certificate as an SQL Programmer from Long Beach City College.
-
-If you're looking for an entry-level developer with a strong foundation in multiple programming languages and experience in game development, I would be an excellent candidate for your team. Thank you for considering me.
-
-Please look at my GitHub profile and previous projects to see my work. I'm working on updating this profile.
-
-Best Regards, 
-
-Jorge Alvarado
-Email: jorgesoftwaredev@gmail.com
+Thank you for taking the time to check out my profile, and I look forward to connecting with you soon!
