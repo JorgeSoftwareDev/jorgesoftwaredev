@@ -1,4 +1,4 @@
-Hi there! 
+Hi there! <br>
 I'm a queer Latino with a passion for technology and innovation. I recently graduated from university with a degree in computer science and am now working hard to build up my portfolio and resume.
 
 As a member of the LGBTQ+ community, I am dedicated to promoting diversity and inclusion in the tech industry. I believe that everyone deserves a seat at the table, regardless of their background or identity.
