@@ -7,6 +7,5 @@ Most inmportantly, as a member of the LGBTQ+ community, I am dedicated to promot
 
 Thank you for taking the time to check out my profile, and I look forward to connecting with you soon!
 
-Sincerely,
-
+Sincerely,<br><br><br><br>
 Jorge Alvarado
