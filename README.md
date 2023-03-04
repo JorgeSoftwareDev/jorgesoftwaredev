@@ -1,4 +1,4 @@
-Hi there! <br><br><br>
+Hi there! <br><br>
 I'm a queer Latino with a passion for technology and innovation. I recently graduated from university with a degree in computer science and am now working hard to build up my portfolio and resume. 
 
 As a junior, I’ve completed 75% of the requirements for my major and am fully proficient in Java, Html, CSS, C Programming, JavaScript, and SQL. Additionally, in my spare time I taught myself Game Development with Unity and C# programming because I enjoy video games, drones, and virtual reality. Furthermore, I feel it’s a great way to merge software with the physical world (like robots). Additionally, I enjoy exploring new programming languages and frameworks, as well as tinkering with hardware projects. I am always eager to learn and grow as a developer, and I am constantly seeking out new challenges and opportunities.
